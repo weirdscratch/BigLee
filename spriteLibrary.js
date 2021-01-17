@@ -26,4 +26,3 @@ function Sprite(elementType, relativeCoords, pxCoords, percentCoords, parent, st
     };
     this.localVars = {};
 }
-var sprite = new Sprite("button", [0, 0], [0, 0], [0, 0], document.getElementsByTagName("body")[0], "", "", [100, 100]);
